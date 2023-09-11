@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! me llamo Guillermo Quintana ... and I'm a ..., from ....</h2>
+<h2 align="left">Hola 👋! </h2>
 
 ###
 
