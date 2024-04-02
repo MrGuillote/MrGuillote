@@ -67,7 +67,6 @@
 
 ###
 
-```yaml
 - uses: Platane/snk@v3
   with:
     github_user_name: ${{ github.repository_owner }}
@@ -82,11 +81,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/MrGuiLLoTe/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/MrGuiLLoTe/github-contribution-grid-snake.svg"  />
 </div>
 
-###
 
-<p align="left">...........................</p>
-
-###
