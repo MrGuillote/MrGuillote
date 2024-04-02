@@ -67,7 +67,7 @@
 
 ###
 
-![snake animation](https://github.com/MrGuillote/MrGuillote/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/MrGuillote/MrGuillote/blob/output/github-contribution-grid-snake.svg)
 
 
 
