@@ -70,5 +70,7 @@
 
 ###
 
-Snake game next... :D
+<img src="https://raw.githubusercontent.com/MrGuiLLoTe/MrGuiLLoTe/output/snake.svg" alt="Snake animation" />
+
+###
 
